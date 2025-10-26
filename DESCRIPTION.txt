@@ -1,0 +1,1 @@
+🚀 One-command installation script to set up n8n workflow automation platform on Ubuntu VPS with Docker, Nginx reverse proxy, and SSL certificate from Let's Encrypt.
