@@ -1,6 +1,21 @@
 # n8n Installation Script with SSL Certificate on Ubuntu VPS
 
 🚀 **One-command installation script** to set up n8n workflow automation platform on Ubuntu VPS with Nginx reverse proxy and SSL certificate.
+# Download and execute directly
+
+
+## ⚡ Quick Install
+
+Run this single command on your Ubuntu VPS:
+```bash
+wget https://raw.githubusercontent.com/Muminur/install-n8n-with-ssl-certificate-on-Ubuntu-VPS/main/install-n8n.sh && chmod +x install-n8n.sh && sudo bash install-n8n.sh
+```
+
+Or using curl:
+```bash
+curl -fsSL https://raw.githubusercontent.com/Muminur/install-n8n-with-ssl-certificate-on-Ubuntu-VPS/main/install-n8n.sh | sudo bash
+```
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20|%2022.04%20|%2024.04-orange)](https://ubuntu.com/)
